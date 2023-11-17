@@ -1,4 +1,4 @@
-# Security Polic
+# Security Policies: Industry Standards, Procedures, and Guidelines
 
 
 
