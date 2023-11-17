@@ -1,1 +1,1 @@
-# cybersecurity-security-policies
+# Security Policy
