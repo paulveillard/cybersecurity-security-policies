@@ -4,7 +4,9 @@
 
 ### What are Security Policies?
 
-Security policies should include industry standards, procedures, and guidelines, which are necessary to support information risks in daily operations. These policies must also have a well-defined scope. The foundation of the security policy should be based on the security triad (confidentiality, integrity, and availability).  Ultimately, the users are required to protect and ensure the applicability of the security triad in the data and systems, which is independent of how that data was created, shared, or stored.  Users must be aware of their responsibilities, and the consequences of violating these policies. Make sure that you also include a section that specifies the roles and responsibilities, since this is very important for accountability purposes.
+**Security policies should include industry standards, procedures, and guidelines, which are necessary to support information risks in daily operations.**
+
+These policies must also have a well-defined scope. The foundation of the security policy should be based on the security triad (confidentiality, integrity, and availability).  Ultimately, the users are required to protect and ensure the applicability of the security triad in the data and systems, which is independent of how that data was created, shared, or stored.  Users must be aware of their responsibilities, and the consequences of violating these policies. Make sure that you also include a section that specifies the roles and responsibilities, since this is very important for accountability purposes.
 
 #### Policy
 
@@ -30,7 +32,7 @@ Security policies should include industry standards, procedures, and guidelines,
 
 
 
-Best Practices
+#### Best Practices
 
 Best practices: As the name says, these are best practices to be implemented by the entire company, or just some departments within the company. This can also be established per role—for example, all web servers should have security
 
