@@ -12,7 +12,7 @@ The foundation of the security policy should be based on the security triad (con
 
 Users must be aware of their responsibilities, and the consequences of violating these policies. Make sure that you also include a section that specifies the roles and responsibilities, since this is very important for accountability purposes.
 
-Policy
+#### Policy
 
 Policy: This is the basis of everything; it sets high-level expectations. It will also be used to guide decisions and achieve outcomes.
 
