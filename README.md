@@ -1,4 +1,4 @@
-# Security Policies: Industry Standards, Procedures, and Guidelines
+# Security Policies: Industry Standards, Procedures, Guidelines, and Best Parctices
 
 ## Table of Contents
 
